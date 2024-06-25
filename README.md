@@ -29,7 +29,7 @@ sudo apt-get install tar gzip mysql-client sshpass expect
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/sackwolle/sackwolle.git
+   git clone https://github.com/sackwolle/LAMP-Backup-Script.git
    cd sackwolle
    ```
 
