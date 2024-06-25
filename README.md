@@ -30,7 +30,7 @@ sudo apt-get install tar gzip mysql-client sshpass expect
 
    ```bash
    git clone https://github.com/sackwolle/LAMP-Backup-Script.git
-   cd sackwolle
+   cd LAMP-Backup-Script
    ```
 
 2. **Configure the Script**
