@@ -19,5 +19,4 @@ Before using the script, ensure that the following software is installed on your
 
 You can install these packages using the following command:
 
-sudo apt-get update
-sudo apt-get install tar gzip mysql-client sshpass expect
+sudo apt-get update && sudo apt-get install tar gzip mysql-client sshpass expect
